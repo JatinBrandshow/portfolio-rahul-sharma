@@ -15,6 +15,7 @@ const Navbar = () => {
             <ul className="flex items-center gap-8 text-white text-sm font-medium">
                 <li><a href="#about" className="hover:text-orange-400 cursor-pointer transition">About</a></li>
                 <li><a href="#skills" className="hover:text-orange-400 cursor-pointer transition">Skills</a></li>
+                <li><a href="#news" className="hover:text-orange-400 cursor-pointer transition">News</a></li>
                 <li><a href="#projects" className="hover:text-orange-400 cursor-pointer transition">Projects</a></li>
                 <li><a href="#experience" className="hover:text-orange-400 cursor-pointer transition">Experience</a></li>
             </ul>

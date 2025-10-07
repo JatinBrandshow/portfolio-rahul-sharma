@@ -4,7 +4,7 @@ import React from "react";
 const Publications = () => {
     return (
         <>
-            <section className="max-w-7xl mx-auto px-6 py-12">
+            <section id="publications" className="max-w-7xl mx-auto px-6 py-12">
                 <h2 className="text-4xl font-bold text-white mb-8">Selected Publications</h2>
 
                 <div className="grid gap-8">

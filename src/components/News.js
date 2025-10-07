@@ -26,7 +26,7 @@ const newsData = [
 
 const News = () => {
     return (
-        <section id="news" className="max-w-7xl mx-auto px-6 py-16 bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 rounded-2xl shadow-xl mt-8">
+        <section id="news" className="max-w-7xl mx-auto px-6 py-16 bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 rounded-2xl shadow-xl my-8">
             <motion.h2
                 initial={{ opacity: 0, y: -20 }}
                 animate={{ opacity: 1, y: 0 }}

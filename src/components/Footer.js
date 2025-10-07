@@ -18,7 +18,8 @@ const Footer = () => {
       <div className="flex justify-center gap-8 mb-4">
         {/* Email */}
         <a
-          href="mailto:professorname@gmail.com"
+          href="mailto:%72%61%68%75%6C.%73%68%61%72%6D%61@%74%61%6C%74%65%63%68.%65%65"
+          title="email"
           className="hover:text-orange-400 transition"
           aria-label="Email"
         >
@@ -27,7 +28,8 @@ const Footer = () => {
 
         {/* ORCID */}
         <a
-          href="https://orcid.org/"
+          href="https://orcid.org/0000-0002-9024-8768"
+          title="ORCID"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-orange-400 transition"
@@ -38,7 +40,8 @@ const Footer = () => {
 
         {/* Google Scholar */}
         <a
-          href="https://scholar.google.com/"
+          href="https://scholar.google.com/citations?user=ArBlXxUAAAAJ"
+          title="Google Scholar"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-orange-400 transition"
@@ -49,7 +52,8 @@ const Footer = () => {
 
         {/* ResearchGate */}
         <a
-          href="https://www.researchgate.net/"
+          href="https://www.researchgate.net/profile/Rahul-Sharma-162/"
+          title="ResearchGate"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-orange-400 transition"
@@ -60,7 +64,8 @@ const Footer = () => {
 
         {/* GitHub */}
         <a
-          href="https://github.com/"
+          href="https://github.com/rahul-sharmaa"
+          title="GitHub"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-orange-400 transition"
@@ -71,7 +76,8 @@ const Footer = () => {
 
         {/* Twitter */}
         <a
-          href="https://twitter.com/"
+          href="https://twitter.com/ItsdrRahul"
+          title="Twitter"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-orange-400 transition"
@@ -80,9 +86,10 @@ const Footer = () => {
           <Twitter size={32} />
         </a>
 
-        {/* Portfolio / LinkedIn */}
+        {/* Portfolio / Work */}
         <a
-          href="https://linkedin.com/"
+          href="https://taltech.ee/kontaktid/rahul-sharma"
+          title="Work"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-orange-400 transition"
@@ -96,10 +103,10 @@ const Footer = () => {
       <p className="text-center text-sm text-gray-400 mb-4">
         You also can write to me on my personal email at{" "}
         <a
-          href="mailto:professorname@gmail.com"
+          href="mailto:%72%61%68%75%6C.%73%68%61%72%6D%61@%74%61%6C%74%65%63%68.%65%65"
           className="text-orange-400 hover:underline"
         >
-          professorname@gmail.com
+          rahul.sharma@taltech.ee
         </a>
       </p>
 

@@ -8,19 +8,19 @@ const newsData = [
         date: "Aug 15, 2022",
         content:
             "A paper titled “Detecting Simpson’s Paradox: A Machine Learning Perspective” has been published in the 33rd International Conference on Database and Expert Systems Applications (Dexa-2022) ✨",
-        url: "https://example.com/dexa2022-paper", // 🔗 Add your real link here
+        url: "#",
     },
     {
         date: "Feb 25, 2022",
         content:
             "A paper titled “Towards Unification of Statistical Reasoning, OLAP and ARM” has been published in the 27th International Conference on Database Systems for Advanced Applications (DASFAA-2022) ✨",
-        url: "https://example.com/dasfaa2022-paper",
+        url: "#",
     },
     {
         date: "Jan 12, 2022",
         content:
             "A paper titled “Why Not to Trust Big Data: Discussing Statistical Paradoxes” has been published in the PMDB workshop under DASFAA 2022.",
-        url: "https://example.com/pmbd2022-paper",
+        url: "#",
     },
 ];
 
